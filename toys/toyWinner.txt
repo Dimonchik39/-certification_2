@@ -1,0 +1,10 @@
+2{Toy Name =игрушка2, Toy Weight =25}
+4{Toy Name =игрушка4, Toy Weight =31}
+2{Toy Name =игрушка2, Toy Weight =25}
+6{Toy Name =Жиробасина Снэгги, Toy Weight =120}
+1{Toy Name =игрушка1, Toy Weight =15}
+2{Toy Name =игрушка2, Toy Weight =25}
+5{Toy Name =игрушка5, Toy Weight =20}
+6{Toy Name =Жиробасина Снэгги, Toy Weight =120}
+2{Toy Name =игрушка2, Toy Weight =25}
+4{Toy Name =игрушка4, Toy Weight =31}
